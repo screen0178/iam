@@ -1,0 +1,26 @@
+.box-icon {
+    width: 1.75rem;
+    height: 1.75rem;
+    border-radius: 8px;
+
+    font-weight: 500;
+
+    background-color: #e3efff;
+    color: #0061f2;
+
+    flex: none;
+}
+
+.box-value {
+    width: 100%;
+    
+    .title {
+        margin-bottom: 0;
+        font-weight: 500;
+    }
+
+    .value {
+        margin-bottom: 0;
+        text-align: right;
+    }
+}
