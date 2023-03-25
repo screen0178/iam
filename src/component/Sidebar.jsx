@@ -16,7 +16,7 @@ function Sidebar() {
                         </svg>
                     </div>
                 </div>
-                <div className="issp-list p-20 pl-4">
+                <div className="issp-list p-20 pl-4 text-left">
                     <div className="grid grid-cols-2 gap-0 p-2">
                         <div className="issp-icon">
                             <Grid />
